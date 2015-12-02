@@ -2,7 +2,7 @@ Package.describe({
     name: 'chfritz:accounts-zotero',
     summary: "Login service for Zotero accounts",
     git: 'https://github.com/chfritz/meteor-accounts-zotero',
-    version: "0.2.0",
+    version: "0.2.1",
     documentation: 'README.md'
 });
 
